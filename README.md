@@ -3,6 +3,8 @@ Streamlit number guessing game with smart hot/cold hints, edge-case handling, an
 # Number Guessing Game 🎯
 
 A simple yet engaging number guessing game built with Streamlit where players try to guess a random number between 1-100 with hot/cold hints.
+ 
+**Play now:** [https://number-guessing-game-for-fun.streamlit.app/](https://number-guessing-game-for-fun.streamlit.app/)
 
 <img width="1001" height="833" alt="{030AB0DF-CE60-4E27-A5CA-796ACB0F457D}" src="https://github.com/user-attachments/assets/40e11804-49ca-4bf7-9f3c-240a9f42ec36" />
 
