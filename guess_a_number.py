@@ -2,7 +2,7 @@ import random
 import streamlit as st
 
 def get_random_number():
-    return random.randrange(1, 100)
+    return random.randrange(10, 90)
 
 def give_hint(number, guess):
     if guess > (number + 10) or guess < (number - 10):
